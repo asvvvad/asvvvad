@@ -1,16 +1,16 @@
-### Hi there 👋
+### Welcome to my profile, Github wanderer 👋
 
-<!--
-**asvvvad/asvvvad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm interested in Game & Web dev. Using Godot Engine, Go, PHP, and the new language V.
+- I currently code for fun but I'm constantly working on my skills to be able to do it professionally
+- I got into coding through game dev, my first engine was the now dead 3DRad (but kept alive at https://classdev.net)
+- - Now, I use Godot Engine for small personal projects that I may make public in the future.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+- 📫 How to reach me: asvvvad+chat(AT)disroot(DOT)org then we'll discuss preferred IM platform from there ^^ 
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Go, V, Godot Engine
+- ⚡ Fun fact: I love memes
+- 💬 Ask me about anything
+- 🔭 I’m currently working on a platform which alows you to make a web page that contains annotated embeded media from across the web - ThreadLyst (name is WIP too..)
+- 🤔 I’m looking for help on the project above
+```
