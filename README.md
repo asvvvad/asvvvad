@@ -2,6 +2,8 @@
 
 I'm interested in Game & Web dev. Using Godot Engine, Go, PHP, and the new language V.
 
+[![ASVVVAD's github stats](https://github-readme-stats.vercel.app/api?username=asvvvad)](https://github.com/asvvvad)
+
 - 👏️ I currently code for fun but I'm constantly working on my skills to be able to do it professionally
 - 📫 How to reach me: asvvvad+chat(AT)disroot(DOT)org then we'll discuss preferred IM platform from there ^^ 
 - 😄 Pronouns: He/Him
@@ -10,4 +12,3 @@ I'm interested in Game & Web dev. Using Godot Engine, Go, PHP, and the new langu
 - - Now, I use Godot Engine for small personal projects that I may make public in the future.- 💬 Ask me about anything
 - 🔭 I’m currently working on a platform which alows you to make a web page that contains annotated embeded media from across the web - ThreadLyst (name is WIP too..)
 - 🤔 I’m looking for help on the project above
-
